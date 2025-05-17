@@ -63,7 +63,7 @@ async def start(client, message):
             InlineKeyboardButton('💝Follow my Instagram ', url='https://instagram.com/darkweb.ogu')
             ],[
             InlineKeyboardButton('🔍 Discussion', url='https://t.me/+ntZ22eF5gBdjZDZk'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url=''https://t.me/+ginjuC6eDEBlNjM0')
+            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+ginjuC6eDEBlNjM0')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
